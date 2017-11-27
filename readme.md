@@ -8,7 +8,7 @@ MAOS-QKP [1] is a multiagent optimization system (MAOS) for solving the Quadrati
 License description
 -------------------
 
-See the [Creative Commons Non-Commercial License 3.0] (https://creativecommons.org/licenses/by-nc/3.0/us/) for more details.
+See the [Creative Commons Non-Commercial License 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/) for more details.
 
 Please acknowledge the author(s) if you use this code in any way.
 
